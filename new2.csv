@@ -1,113 +1,113 @@
-﻿name,code,pop,
-Antigua and Barbuda,ATG,108,
-Algeria,DZA,97.1,
-Azerbaijan,AZE,103,
-Albania,ALB,99.7,
-Armenia,ARM,94.7,
-Angola,AGO,90,
-American Samoa,ASM,99,
-Argentina,ARG,93.3,
-Australia,AUS,95.5,
-Bahrain,BHR,97.7,
-Barbados,BRB,136,
-Bermuda,BMU,106,
-Bahamas,BHS,92.7,
-Bangladesh,BGD,88.3,
-Belize,BLZ,95.9,
-Bosnia and Herzegovina,BIH,101,
-Bolivia,BOL,96.1,
-Burma,MMR,105,
-Benin,BEN,101,
-Solomon Islands,SLB,96.3,
-Brazil,BRA,92.6,
-Bulgaria,BGR,98.5,
-Brunei Darussalam,BRN,110,
-Canada,CAN,95.9,
-Cambodia,KHM,96,
-Sri Lanka,LKA,95.5,
-Congo,COG,94.4,
-Democratic Republic of the Congo,COD,99.1,
-Burundi,BDI,98,
-China,CHN,92.4,
-Afghanistan,AFG,97.2,
-Bhutan,BTN,98.8,
-Chile,CHL,96.7,
-Cayman Islands,CYM,105,
-Cameroon,CMR,96.6,
-Chad,TCD,101,
-Comoros,COM,98,
-Colombia,COL,96.9,
-Costa Rica,CRI,101,
-Central African Republic,CAF,108,
-Cuba,CUB,93.7,
-Cape Verde,CPV,100,
-Cook Islands,COK,102,
-Cyprus,CYP,94.5,
-Denmark,DNK,97.6,
-Djibouti,DJI,101,
-Dominica,DMA,101,
-Dominican Republic,DOM,101,
-Ecuador,ECU,101,
-Egypt,EGY,94.3,
-Ireland,IRL,103,
-Equatorial Guinea,GNQ,99.1,
-Estonia,EST,86.2,
-Eritrea,ERI,91.3,
-El Salvador,SLV,99.4,
-Ethiopia,ETH,103,
-Austria,AUT,94.9,
-Czech Republic,CZE,94.5,
-French Guiana,GUF,97.1,
-Finland,FIN,100,
-Fiji,FJI,89.9,
-Falkland Islands (Malvinas),FLK,94.1,
+﻿name,code,pop
+Antigua and Barbuda,ATG,108
+Algeria,DZA,97.1
+Azerbaijan,AZE,103
+Albania,ALB,99.7
+Armenia,ARM,94.7
+Angola,AGO,90
+American Samoa,ASM,99
+Argentina,ARG,93.3
+Australia,AUS,95.5
+Bahrain,BHR,97.7
+Barbados,BRB,136
+Bermuda,BMU,106
+Bahamas,BHS,92.7
+Bangladesh,BGD,88.3
+Belize,BLZ,95.9
+Bosnia and Herzegovina,BIH,101
+Bolivia,BOL,96.1
+Burma,MMR,105
+Benin,BEN,101
+Solomon Islands,SLB,96.3
+Brazil,BRA,92.6
+Bulgaria,BGR,98.5
+Brunei Darussalam,BRN,110
+Canada,CAN,95.9
+Cambodia,KHM,96
+Sri Lanka,LKA,95.5
+Congo,COG,94.4
+Democratic Republic of the Congo,COD,99.1
+Burundi,BDI,98
+China,CHN,92.4
+Afghanistan,AFG,97.2
+Bhutan,BTN,98
+Chile,CHL,96.7
+Cayman Islands,CYM,105
+Cameroon,CMR,96.6
+Chad,TCD,101
+Comoros,COM,98
+Colombia,COL,96
+Costa Rica,CRI,101
+Central African Republic,CAF,108
+Cuba,CUB,93.7
+Cape Verde,CPV,100
+Cook Islands,COK,102
+Cyprus,CYP,94.5
+Denmark,DNK,97.6
+Djibouti,DJI,101
+Dominica,DMA,101
+Dominican Republic,DOM,101
+Ecuador,ECU,101
+Egypt,EGY,94.3
+Ireland,IRL,103
+Equatorial Guinea,GNQ,99.1
+Estonia,EST,86.2
+Eritrea,ERI,91.3
+El Salvador,SLV,99.4
+Ethiopia,ETH,103
+Austria,AUT,94.9
+Czech Republic,CZE,94.5
+French Guiana,GUF,97.1
+Finland,FIN,100
+Fiji,FJI,89.9
+Falkland Islands (Malvinas),FLK,94.1
 Micronesia, Federated States of,102,110058
-French Polynesia,PYF,98.8,
-France,FRA,97.4,
-Gambia,GMB,92,
-Gabon,GAB,93.7,
-Georgia,GEO,97,
-Ghana,GHA,96.9,
-Grenada,GRD,98.7,
-Greenland,GRL,91.5,
-Germany,DEU,101,
-Guam,GUM,108,
-Greece,GRC,100,
-Guatemala,GTM,104,
-Guinea,GIN,102,
-Guyana,GUY,98.6,
-Haiti,HTI,97.6,
-Honduras,HND,94.3,
-Croatia,HRV,98,
-Hungary,HUN,96.9,
-Iceland,ISL,110,
-India,IND,94,
-Iran (Islamic Republic of),IRN,98.9,
-Israel,ISR,138,
-Italy,ITA,97.4,
-Cote d'Ivoire,CIV,99.4,
-Iraq,IRQ,85.4,
-Japan,JPN,98.9,
-Jamaica,JAM,94.5,
-Jordan,JOR,98.9,
-Kenya,KEN,110,
-Kyrgyzstan,KGZ,89.1,
+French Polynesia,PYF,98.8
+France,FRA,97.4
+Gambia,GMB,92
+Gabon,GAB,93.7
+Georgia,GEO,97
+Ghana,GHA,96.9
+Grenada,GRD,98.7
+Greenland,GRL,91.5
+Germany,DEU,101
+Guam,GUM,108
+Greece,GRC,100
+Guatemala,GTM,104
+Guinea,GIN,102
+Guyana,GUY,98.6
+Haiti,HTI,97.6
+Honduras,HND,94.3
+Croatia,HRV,98
+Hungary,HUN,96.9
+Iceland,ISL,110
+India,IND,94
+Iran (Islamic Republic of),IRN,98.9
+Israel,ISR,138
+Italy,ITA,97.4
+Cote d'Ivoire,CIV,99.4
+Iraq,IRQ,85.4
+Japan,JPN,98.9
+Jamaica,JAM,94.5
+Jordan,JOR,98.9
+Kenya,KEN,110
+Kyrgyzstan,KGZ,89.1
 Korea, Democratic People's Republic of,96.4,23615611
-Kiribati,KIR,99.4,
+Kiribati,KIR,99.4
 Korea, Republic of,98.4,47869837
-Kuwait,KWT,104,
-Kazakhstan,KAZ,102,
-Lao People's Democratic Republic,LAO,97.8,
-Lebanon,LBN,97.5,
-Latvia,LVA,98.2,
-Belarus,BLR,99.4,
-Lithuania,LTU,96.7,
-Liberia,LBR,91.4,
-Slovakia,SVK,98.2,
-Liechtenstein,LIE,98.8,
-Libyan Arab Jamahiriya,LBY,99,
-Madagascar,MDG,91.1,
-Martinique,MTQ,94.7,
+Kuwait,KWT,104
+Kazakhstan,KAZ,102
+Lao People's Democratic Republic,LAO,97.8
+Lebanon,LBN,97.5
+Latvia,LVA,98.2
+Belarus,BLR,99.4
+Lithuania,LTU,96.7
+Liberia,LBR,91.4
+Slovakia,SVK,98.2
+Liechtenstein,LIE,98.8
+Libyan Arab Jamahiriya,LBY,99
+Madagascar,MDG,91.1
+Martinique,MTQ,94.7
 Mongolia,MNG,93.2,
 Montserrat,MSR,102,
 The former Yugoslav Republic of Macedonia,MKD,98.1,
