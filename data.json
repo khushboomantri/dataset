@@ -1,0 +1,259 @@
+{"nodes":[
+ {
+   "id": 1,
+   "name": "Ravens",
+   "city": "Baltimore",
+   "lat": 39.2833,
+   "lon": -76.6167,
+   "region": "AFC North"
+ },
+ {
+   "id": 2,
+   "name": "Browns",
+   "city": "Cleveland",
+   "lat": 41.4822,
+   "lon": -81.6697,
+   "region": "AFC North"
+ },
+ {
+   "id": 3,
+   "name": "Steelers",
+   "city": "Pittsburgh",
+   "lat": 40.4422,
+   "lon": -79.995,
+   "region": "AFC North"
+ },
+ {
+   "id": 4,
+   "name": "Bengals",
+   "city": "Cincinnati",
+   "lat": 39.1037,
+   "lon": -84.5136,
+   "region": "AFC North"
+ },
+ {
+   "id": 5,
+   "name": "Colts",
+   "city": "Indianapolis",
+   "lat": 39.791,
+   "lon": -86.148,
+   "region": "AFC South"
+ },
+ {
+   "id": 6,
+   "name": "Jaguars",
+   "city": "Jacksonville",
+   "lat": 30.3369,
+   "lon": -81.6614,
+   "region": "AFC South"
+ },
+ {
+   "id": 7,
+   "name": "Texans",
+   "city": "Houston",
+   "lat": 29.7628,
+   "lon": -95.3831,
+   "region": "AFC South"
+ },
+ {
+   "id": 8,
+   "name": "Titans",
+   "city": "Tennessee",
+   "lat": 35.5175,
+   "lon": -86.5804,
+   "region": "AFC South"
+ },
+ {
+   "id": 9,
+   "name": "Dolphine",
+   "city": "Miami",
+   "lat": 25.7751,
+   "lon": -80.1947,
+   "region": "AFC East"
+ },
+ {
+   "id": 10,
+   "name": "Bills",
+   "city": "Buffalo",
+   "lat": 42.8877,
+   "lon": -78.8794,
+   "region": "AFC East"
+ },
+ {
+   "id": 11,
+   "name": "Patriots",
+   "city": "New England",
+   "lat": 43.9654,
+   "lon": -70.8227,
+   "region": "AFC East"
+ },
+ {
+   "id": 12,
+   "name": "Jets",
+   "city": "New York",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "region": "AFC East"
+ },
+ {
+   "id": 13,
+   "name": "Chiefs",
+   "city": "Kansas City",
+   "lat": 39.0997,
+   "lon": -94.5783,
+   "region": "AFC West"
+ },
+ {
+   "id": 14,
+   "name": "Raiders",
+   "city": "Las Vegas",
+   "lat": 36.1691,
+   "lon": -115.1406,
+   "region": "AFC West"
+ },
+ {
+   "id": 15,
+   "name": "Broncos",
+   "city": "Denver",
+   "lat": 39.7392,
+   "lon": 104.9903,
+   "region": "AFC West"
+ },
+ {
+   "id": 16,
+   "name": "Chargers",
+   "city": "Los Angeles",
+   "lat": 34.0522,
+   "lon": -118.2433,
+   "region": "AFC West"
+ },
+ {
+   "id": 17,
+   "name": "Bears",
+   "city": "Chicago",
+   "lat": 41.8832,
+   "lon": -87.6324,
+   "region": "NFC North"
+ },
+ {
+   "id": 18,
+   "name": "Packers",
+   "city": "Green Bay",
+   "lat": 44.5133,
+   "lon": -88.0133,
+   "region": "NFC North"
+ },
+ {
+   "id": 19,
+   "name": "Lions",
+   "city": "Detroit",
+   "lat": 42.3329,
+   "lon": -83.0478,
+   "region": "NFC North"
+ },
+ {
+   "id": 20,
+   "name": "Vikings",
+   "city": "Minnesota",
+   "lat": 46.7296,
+   "lon": -94.6859,
+   "region": "NFC North"
+ },
+ {
+   "id": 21,
+   "name": "Falcons",
+   "city": "Atlanta",
+   "lat": 33.749,
+   "lon": -84.388,
+   "region": "NFC South"
+ },
+ {
+   "id": 22,
+   "name": "Buccaneers",
+   "city": "Tampa Bay",
+   "lat": 27.7634,
+   "lon": -82.5437,
+   "region": "NFC South"
+ },
+ {
+   "id": 23,
+   "name": "Panthers",
+   "city": "Carolina",
+   "lat": 26.7087,
+   "lon": -80.1041,
+   "region": "NFC South"
+ },
+ {
+   "id": 24,
+   "name": "Saints",
+   "city": "New Orleans",
+   "lat": 29.9518,
+   "lon": -90.0746,
+   "region": "NFC South"
+ },
+ {
+   "id": 25,
+   "name": "Cowboys",
+   "city": "Dallas",
+   "lat": 32.7767,
+   "lon": -96.797,
+   "region": "NFC East"
+ },
+ {
+   "id": 26,
+   "name": "Giants",
+   "city": "New York",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "region": "NFC East"
+ },
+ {
+   "id": 27,
+   "name": "Eagles",
+   "city": "Philadelphia",
+   "lat": 39.9526,
+   "lon": -75.1652,
+   "region": "NFC East"
+ },
+ {
+   "id": 28,
+   "name": "Football Team",
+   "city": "Washington",
+   "lat": 47.7511,
+   "lon": -120.7401,
+   "region": "NFC East"
+ },
+ {
+   "id": 29,
+   "name": "Rams",
+   "city": "Los Angeles",
+   "lat": 34.0522,
+   "lon": -118.2433,
+   "region": "NFC West"
+ },
+ {
+   "id": 30,
+   "name": "49ers",
+   "city": "San Fransisco",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "region": "NFC West"
+ },
+ {
+   "id": 31,
+   "name": "Seahawks",
+   "city": "Seattle",
+   "lat": 47.6032,
+   "lon": -122.3303,
+   "region": "NFC West"
+ },
+ {
+   "id": 32,
+   "name": "Cardinals",
+   "city": "Arizona",
+   "lat": 34.0489,
+   "lon": -111.0937,
+   "region": "NFC West"
+ }
+]
+}
