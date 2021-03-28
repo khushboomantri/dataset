@@ -1,0 +1,33 @@
+﻿iata,name,state,city,country,"	latitude","longitude	",region,record
+1,Ravens,MD,Baltimore,USA,39.2833,-76.6167,AFC North,56
+2,Browns,OH,Cleveland,USA,41.4822,-81.6697,AFC North,52
+3,Steelers,PA,Pittsburgh,USA,40.4422,-79.995,AFC North,40
+4,Bengals,OH,Cincinnati,USA,39.1037,-84.5136,AFC North,32
+5,Colts,IN,Indianapolis,USA,39.791,-86.148,AFC South,10
+6,Jaguars,FL,Jacksonville,USA,30.3369,-81.6614,AFC South,89
+7,Texans,TX,Houston,USA,29.7628,-95.3831,AFC South,230
+8,Titans,TN,Tennessee,USA,35.5175,-86.5804,AFC South,50
+9,Dolphine,FL,Miami,USA,25.7751,-80.1947,AFC East,506
+10,Bills,NY,Buffalo,USA,42.8877,-78.8794,AFC East,0
+11,Patriots,NY,New England,USA,43.9654,-70.8227,AFC East,20
+12,Jets,NY,New York,USA,40.7128,-74.006,AFC East,30
+13,Chiefs,MO,Kansas City,USA,39.0997,-94.5783,AFC West,60
+14,Raiders,CA,Las Vegas,USA,36.1691,-115.1406,AFC West,40
+15,Broncos,CO,Denver,USA,39.7392,104.9903,AFC West,80
+16,Chargers,CA,Los Angeles,USA,34.0522,-118.2433,AFC West,70
+17,Bears,IL,Chicago,USA,41.8832,-87.6324,NFC North,90
+18,Packers,WI,Green Bay,USA,44.5133,-88.0133,NFC North,90
+19,Lions,MI,Detroit,USA,42.3329,-83.0478,NFC North,123
+20,Vikings,MN,Minnesota,USA,46.7296,-94.6859,NFC North,6520
+21,Falcons,GA,Atlanta,USA,33.749,-84.388,NFC South,10
+22,Buccaneers,FL,Tampa Bay,USA,27.7634,-82.5437,NFC South,60
+23,Panthers,NC,Carolina,USA,26.7087,-80.1041,NFC South,965
+24,Saints,"	LA",New Orleans,USA,29.9518,-90.0746,NFC South,123
+25,Cowboys,TX,Dallas,USA,32.7767,-96.797,NFC East,123
+26,Giants,NY,New York,USA,40.7128,-74.006,NFC East,55
+27,Eagles,PL,Philadelphia,USA,39.9526,-75.1652,NFC East,520
+28,Football Team,WA,Washington,USA,47.7511,-120.7401,NFC East,89
+29,Rams,CA,Los Angeles,USA,34.0522,-118.2433,NFC West,123
+30,49ers,CA,San Fransisco,USA,37.7749,-122.4194,NFC West,878
+31,Seahawks,WA,Seattle,USA,47.6032,-122.3303,NFC West,98
+32,Cardinals,AZ,Arizona,USA,34.0489,-111.0937,NFC West,781
