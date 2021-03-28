@@ -1,4 +1,4 @@
-﻿iata,name,state,city,country,"	latitude","longitude	",region,record
+﻿iata,name,state,city,country,"latitude","longitude",region,record
 1,Ravens,MD,Baltimore,USA,39.2833,-76.6167,AFC North,56
 2,Browns,OH,Cleveland,USA,41.4822,-81.6697,AFC North,52
 3,Steelers,PA,Pittsburgh,USA,40.4422,-79.995,AFC North,40
