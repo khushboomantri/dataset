@@ -1,1825 +1,337 @@
 {
   "nodes": [
- {
-   "ID": "1",
-   "Team": "Ravens",
-   "Location": "Baltimore",
-   "Latitude": "39.17540167",
-   "Longitude": -76.66819833,
-   "Region": "AFC North",
-   "Records": 20
- },
- {
-   "ID": "2",
-   "Team": "Browns",
-   "Location": "Cleveland",
-   "Latitude": "41.5175",
-   "Longitude": -81.68333333,
-   "Region": "AFC North",
-   "Records": 22
- },
- {
-   "ID": "3",
-   "Team": "Steelers",
-   "Location": "Pittsburgh",
-   "Latitude": "40.37645722",
-   "Longitude": -79.60837583,
-   "Region": "AFC North",
-   "Records": 21
- },
- {
-   "ID": "4",
-   "Team": "Bengals",
-   "Location": "Cincinnati",
-   "Latitude": "39.25894444",
-   "Longitude": -84.77430556,
-   "Region": "AFC North",
-   "Records": 13
- },
- {
-   "ID": "5",
-   "Team": "Colts",
-   "Location": "Indianapolis",
-   "Latitude": "39.76587639",
-   "Longitude": -86.148875,
-   "Region": "AFC South",
-   "Records": 20
- },
- {
-   "ID": "6",
-   "Team": "Jaguars",
-   "Location": "Jacksonville",
-   "Latitude": "30.49405556",
-   "Longitude": -81.68786111,
-   "Region": "AFC South",
-   "Records": 4
- },
- {
-   "ID": "7",
-   "Team": "Texans",
-   "Location": "Houston",
-   "Latitude": "29.52130556",
-   "Longitude": -95.24216667,
-   "Region": "AFC South",
-   "Records": 8
- },
- {
-   "ID": "8",
-   "Team": "Titans",
-   "Location": "Tennessee",
-   "Latitude": "36.59287528",
-   "Longitude": -86.47691028,
-   "Region": "AFC South",
-   "Records": 20
- },
- {
-   "ID": "9",
-   "Team": "Dolphine",
-   "Location": "Miami",
-   "Latitude": "25.79325",
-   "Longitude": -80.29055556,
-   "Region": "AFC East",
-   "Records": 20
- },
- {
-   "ID": "10",
-   "Team": "Bills",
-   "Location": "Buffalo",
-   "Latitude": "42.94052472",
-   "Longitude": -78.73216667,
-   "Region": "AFC East",
-   "Records": 27
- },
- {
-   "ID": "11",
-   "Team": "Patriots",
-   "Location": "New England",
-   "Latitude": "41.196",
-   "Longitude": -96.11227778,
-   "Region": "AFC East",
-   "Records": 14
- },
- {
-   "ID": "12",
-   "Team": "Jets",
-   "Location": "New York",
-   "Latitude": "40.70121361",
-   "Longitude": -74.00902833,
-   "Region": "AFC East",
-   "Records": 4
- },
- {
-   "ID": "13",
-   "Team": "Chiefs",
-   "Location": "Kansas City",
-   "Latitude": "39.29760528",
-   "Longitude": -94.71390556,
-   "Region": "AFC West",
-   "Records": 28
- },
- {
-   "ID": "14",
-   "Team": "Raiders",
-   "Location": "Las Vegas",
-   "Latitude": "35.97636444",
-   "Longitude": -115.1327708,
-   "Region": "AFC West",
-   "Records": 16
- },
- {
-   "ID": "15",
-   "Team": "Broncos",
-   "Location": "Denver",
-   "Latitude": "39.85840806",
-   "Longitude": -104.6670019,
-   "Region": "AFC West",
-   "Records": 18
- },
- {
-   "ID": "16",
-   "Team": "Chargers",
-   "Location": "Los Angeles",
-   "Latitude": "33.94253611",
-   "Longitude": -118.4080744,
-   "Region": "AFC West",
-   "Records": 14
- },
- {
-   "ID": "17",
-   "Team": "Bears",
-   "Location": "Chicago",
-   "Latitude": "41.979595",
-   "Longitude": -87.90446417,
-   "Region": "NFC North",
-   "Records": 0
- },
- {
-   "ID": "18",
-   "Team": "Packers",
-   "Location": "Green Bay",
-   "Latitude": "44.48507333",
-   "Longitude": -88.12959,
-   "Region": "NFC North",
-   "Records": 26
- },
- {
-   "ID": "19",
-   "Team": "Lions",
-   "Location": "Detroit",
-   "Latitude": "42.40919444",
-   "Longitude": -83.00986111,
-   "Region": "NFC North",
-   "Records": 10
- },
- {
-   "ID": "20",
-   "Team": "Vikings",
-   "Location": "Minnesota",
-   "Latitude": "44.88054694",
-   "Longitude": -93.2169225,
-   "Region": "NFC North",
-   "Records": 14
- },
- {
-   "ID": "21",
-   "Team": "Falcons",
-   "Location": "Atlanta",
-   "Latitude": "33.64044444",
-   "Longitude": -84.42694444,
-   "Region": "NFC South",
-   "Records": 8
- },
- {
-   "ID": "22",
-   "Team": "Buccaneers",
-   "Location": "Tampa Bay",
-   "Latitude": "27.97547222",
-   "Longitude": -82.53325,
-   "Region": "NFC South",
-   "Records": 20
- },
- {
-   "ID": "23",
-   "Team": "Panthers",
-   "Location": "Carolina",
-   "Latitude": "35.222595",
-   "Longitude": -83.41904389,
-   "Region": "NFC South",
-   "Records": 10
- },
- {
-   "ID": "24",
-   "Team": "Saints",
-   "Location": "New Orleans",
-   "Latitude": "29.95194444",
-   "Longitude": -90.08166667,
-   "Region": "NFC South",
-   "Records": 25
- },
- {
-   "ID": "25",
-   "Team": "Cowboys",
-   "Location": "Dallas",
-   "Latitude": "32.84711389",
-   "Longitude": -96.85177222,
-   "Region": "NFC East",
-   "Records": 12
- },
- {
-   "ID": "26",
-   "Team": "Giants",
-   "Location": "New York",
-   "Latitude": "40.63975111",
-   "Longitude": -73.77892556,
-   "Region": "NFC East",
-   "Records": 13
- },
- {
-   "ID": "27",
-   "Team": "Eagles",
-   "Location": "Philadelphia",
-   "Latitude": "39.87195278",
-   "Longitude": -75.24114083,
-   "Region": "NFC East",
-   "Records": 8
- },
- {
-   "ID": "28",
-   "Team": "Football Team",
-   "Location": "Washington",
-   "Latitude": "38.86872333",
-   "Longitude": -77.00747583,
-   "Region": "NFC East",
-   "Records": 14
- },
- {
-   "ID": "29",
-   "Team": "Rams",
-   "Location": "Los Angeles",
-   "Latitude": "34.25932528",
-   "Longitude": -118.4134331,
-   "Region": "NFC West",
-   "Records": 19
- },
- {
-   "ID": "30",
-   "Team": "49ers",
-   "Location": "San Fransisco",
-   "Latitude": "37.61900194",
-   "Longitude": -122.3748433,
-   "Region": "NFC West",
-   "Records": 14
- },
- {
-   "ID": "31",
-   "Team": "Seahawks",
-   "Location": "Seattle",
-   "Latitude": "47.44898194",
-   "Longitude": -122.3093131,
-   "Region": "NFC West",
-   "Records": 24
- },
- {
-   "ID": "32",
-   "Team": "Cardinals",
-   "Location": "Arizona",
-   "Latitude": "33.43416667",
-   "Longitude": -112.0080556,
-   "Region": "NFC West",
-   "Records": 18
- }
-],
-
-"links": [
- {
-   "Source": 7,
-   "Target": 13,
-   "Score": "20-34",
-   "Week": 1
- },
- {
-   "Source": 31,
-   "Target": 21,
-   "Score": "38-25",
-   "Week": 1
- },
- {
-   "Source": 2,
-   "Target": 1,
-   "Score": "6-38. ",
-   "Week": 1
- },
- {
-   "Source": 12,
-   "Target": 10,
-   "Score": "17-27",
-   "Week": 1
- },
- {
-   "Source": 14,
-   "Target": 23,
-   "Score": "34-30",
-   "Week": 1
- },
- {
-   "Source": 17,
-   "Target": 19,
-   "Score": "27-23",
-   "Week": 1
- },
- {
-   "Source": 5,
-   "Target": 6,
-   "Score": "20-27",
-   "Week": 1
- },
- {
-   "Source": 18,
-   "Target": 20,
-   "Score": "43-34",
-   "Week": 1
- },
- {
-   "Source": 9,
-   "Target": 11,
-   "Score": "11-21.",
-   "Week": 1
- },
- {
-   "Source": 27,
-   "Target": 28,
-   "Score": "17-27",
-   "Week": 1
- },
- {
-   "Source": 16,
-   "Target": 4,
-   "Score": "16-13",
-   "Week": 1
- },
- {
-   "Source": 22,
-   "Target": 24,
-   "Score": "23-34",
-   "Week": 1
- },
- {
-   "Source": 32,
-   "Target": 30,
-   "Score": "24-20",
-   "Week": 1
- },
- {
-   "Source": 25,
-   "Target": 29,
-   "Score": "17-20",
-   "Week": 1
- },
- {
-   "Source": 3,
-   "Target": 26,
-   "Score": "26-16",
-   "Week": 1
- },
- {
-   "Source": 8,
-   "Target": 15,
-   "Score": "16-14",
-   "Week": 1
- },
- {
-   "Source": 4,
-   "Target": 2,
-   "Score": "30-35",
-   "Week": 2
- },
- {
-   "Source": 26,
-   "Target": 17,
-   "Score": "13-17",
-   "Week": 2
- },
- {
-   "Source": 21,
-   "Target": 25,
-   "Score": "39-40",
-   "Week": 2
- },
- {
-   "Source": 19,
-   "Target": 18,
-   "Score": "21-42",
-   "Week": 2
- },
- {
-   "Source": 20,
-   "Target": 5,
-   "Score": "11-28.",
-   "Week": 2
- },
- {
-   "Source": 10,
-   "Target": 9,
-   "Score": "31-28",
-   "Week": 2
- },
- {
-   "Source": 30,
-   "Target": 12,
-   "Score": "31-13",
-   "Week": 2
- },
- {
-   "Source": 29,
-   "Target": 27,
-   "Score": "37-19",
-   "Week": 2
- },
- {
-   "Source": 15,
-   "Target": 3,
-   "Score": "21-26",
-   "Week": 2
- },
- {
-   "Source": 23,
-   "Target": 22,
-   "Score": "17-31",
-   "Week": 2
- },
- {
-   "Source": 6,
-   "Target": 8,
-   "Score": "30-33",
-   "Week": 2
- },
- {
-   "Source": 28,
-   "Target": 32,
-   "Score": "15-30",
-   "Week": 2
- },
- {
-   "Source": 1,
-   "Target": 7,
-   "Score": "33-16",
-   "Week": 2
- },
- {
-   "Source": 13,
-   "Target": 16,
-   "Score": "23-20",
-   "Week": 2
- },
- {
-   "Source": 11,
-   "Target": 31,
-   "Score": "30-35",
-   "Week": 2
- },
- {
-   "Source": 24,
-   "Target": 14,
-   "Score": "24-34",
-   "Week": 2
- },
- {
-   "Source": 9,
-   "Target": 6,
-   "Score": "31-13",
-   "Week": 3
- },
- {
-   "Source": 17,
-   "Target": 21,
-   "Score": "30-26",
-   "Week": 3
- },
- {
-   "Source": 29,
-   "Target": 10,
-   "Score": "32-35",
-   "Week": 3
- },
- {
-   "Source": 28,
-   "Target": 2,
-   "Score": "20-34",
-   "Week": 3
- },
- {
-   "Source": 8,
-   "Target": 20,
-   "Score": "31-30",
-   "Week": 3
- },
- {
-   "Source": 14,
-   "Target": 11,
-   "Score": "20-36",
-   "Week": 3
- },
- {
-   "Source": 30,
-   "Target": 26,
-   "Score": "36-9.",
-   "Week": 3
- },
- {
-   "Source": 4,
-   "Target": 27,
-   "Score": "23-23",
-   "Week": 3
- },
- {
-   "Source": 7,
-   "Target": 3,
-   "Score": "21-28",
-   "Week": 3
- },
- {
-   "Source": 12,
-   "Target": 5,
-   "Score": "7-36.",
-   "Week": 3
- },
- {
-   "Source": 23,
-   "Target": 16,
-   "Score": "21-16",
-   "Week": 3
- },
- {
-   "Source": 19,
-   "Target": 32,
-   "Score": "26-23",
-   "Week": 3
- },
- {
-   "Source": 22,
-   "Target": 15,
-   "Score": "28-10",
-   "Week": 3
- },
- {
-   "Source": 25,
-   "Target": 31,
-   "Score": "31-38",
-   "Week": 3
- },
- {
-   "Source": 18,
-   "Target": 24,
-   "Score": "37-30",
-   "Week": 3
- },
- {
-   "Source": 13,
-   "Target": 1,
-   "Score": "34-20",
-   "Week": 3
- },
- {
-   "Source": 15,
-   "Target": 12,
-   "Score": "37-28",
-   "Week": 4
- },
- {
-   "Source": 32,
-   "Target": 23,
-   "Score": "21-31",
-   "Week": 4
- },
- {
-   "Source": 6,
-   "Target": 4,
-   "Score": "25-33",
-   "Week": 4
- },
- {
-   "Source": 2,
-   "Target": 25,
-   "Score": "49-38",
-   "Week": 4
- },
- {
-   "Source": 24,
-   "Target": 19,
-   "Score": "35-29",
-   "Week": 4
- },
- {
-   "Source": 20,
-   "Target": 7,
-   "Score": "31-23",
-   "Week": 4
- },
- {
-   "Source": 31,
-   "Target": 9,
-   "Score": "31-23",
-   "Week": 4
- },
- {
-   "Source": 16,
-   "Target": 22,
-   "Score": "31-38",
-   "Week": 4
- },
- {
-   "Source": 1,
-   "Target": 28,
-   "Score": "31-17",
-   "Week": 4
- },
- {
-   "Source": 26,
-   "Target": 29,
-   "Score": "9-17.",
-   "Week": 4
- },
- {
-   "Source": 5,
-   "Target": 17,
-   "Score": "19-11",
-   "Week": 4
- },
- {
-   "Source": 10,
-   "Target": 14,
-   "Score": "30-23",
-   "Week": 4
- },
- {
-   "Source": 27,
-   "Target": 30,
-   "Score": "25-20",
-   "Week": 4
- },
- {
-   "Source": 11,
-   "Target": 13,
-   "Score": "10-26.",
-   "Week": 4
- },
- {
-   "Source": 21,
-   "Target": 18,
-   "Score": "16-30",
-   "Week": 4
- },
- {
-   "Source": 22,
-   "Target": 17,
-   "Score": "19-20",
-   "Week": 5
- },
- {
-   "Source": 23,
-   "Target": 21,
-   "Score": "23-16",
-   "Week": 5
- },
- {
-   "Source": 4,
-   "Target": 1,
-   "Score": "3-27.",
-   "Week": 5
- },
- {
-   "Source": 6,
-   "Target": 7,
-   "Score": "14-30",
-   "Week": 5
- },
- {
-   "Source": 14,
-   "Target": 13,
-   "Score": "40-32",
-   "Week": 5
- },
- {
-   "Source": 32,
-   "Target": 12,
-   "Score": "30-10",
-   "Week": 5
- },
- {
-   "Source": 27,
-   "Target": 3,
-   "Score": "29-38",
-   "Week": 5
- },
- {
-   "Source": 29,
-   "Target": 28,
-   "Score": "30-10",
-   "Week": 5
- },
- {
-   "Source": 9,
-   "Target": 30,
-   "Score": "43-17",
-   "Week": 5
- },
- {
-   "Source": 5,
-   "Target": 2,
-   "Score": "23-32",
-   "Week": 5
- },
- {
-   "Source": 26,
-   "Target": 25,
-   "Score": "34-37",
-   "Week": 5
- },
- {
-   "Source": 20,
-   "Target": 31,
-   "Score": "26-27",
-   "Week": 5
- },
- {
-   "Source": 16,
-   "Target": 24,
-   "Score": "27-30",
-   "Week": 5
- },
- {
-   "Source": 10,
-   "Target": 8,
-   "Score": "16-42",
-   "Week": 5
- },
- {
-   "Source": 17,
-   "Target": 23,
-   "Score": "23-16",
-   "Week": 6
- },
- {
-   "Source": 4,
-   "Target": 5,
-   "Score": "27-31",
-   "Week": 6
- },
- {
-   "Source": 19,
-   "Target": 6,
-   "Score": "34-16",
-   "Week": 6
- },
- {
-   "Source": 21,
-   "Target": 20,
-   "Score": "40-23",
-   "Week": 6
- },
- {
-   "Source": 28,
-   "Target": 26,
-   "Score": "19-20",
-   "Week": 6
- },
- {
-   "Source": 1,
-   "Target": 27,
-   "Score": "30-28",
-   "Week": 6
- },
- {
-   "Source": 2,
-   "Target": 3,
-   "Score": "7-38.",
-   "Week": 6
- },
- {
-   "Source": 7,
-   "Target": 8,
-   "Score": "36-42",
-   "Week": 6
- },
- {
-   "Source": 15,
-   "Target": 11,
-   "Score": "18-12",
-   "Week": 6
- },
- {
-   "Source": 12,
-   "Target": 9,
-   "Score": "0-24",
-   "Week": 6
- },
- {
-   "Source": 18,
-   "Target": 22,
-   "Score": "10-38.",
-   "Week": 6
- },
- {
-   "Source": 29,
-   "Target": 30,
-   "Score": "16-24",
-   "Week": 6
- },
- {
-   "Source": 13,
-   "Target": 10,
-   "Score": "26-17",
-   "Week": 6
- },
- {
-   "Source": 32,
-   "Target": 25,
-   "Score": "38-10",
-   "Week": 6
- },
- {
-   "Source": 26,
-   "Target": 27,
-   "Score": "21-22",
-   "Week": 7
- },
- {
-   "Source": 19,
-   "Target": 21,
-   "Score": "23-22",
-   "Week": 7
- },
- {
-   "Source": 2,
-   "Target": 4,
-   "Score": "37-34",
-   "Week": 7
- },
- {
-   "Source": 18,
-   "Target": 7,
-   "Score": "35-20",
-   "Week": 7
- },
- {
-   "Source": 23,
-   "Target": 24,
-   "Score": "24-27",
-   "Week": 7
- },
- {
-   "Source": 10,
-   "Target": 12,
-   "Score": "18-10",
-   "Week": 7
- },
- {
-   "Source": 25,
-   "Target": 28,
-   "Score": "3-25.",
-   "Week": 7
- },
- {
-   "Source": 3,
-   "Target": 8,
-   "Score": "27-24",
-   "Week": 7
- },
- {
-   "Source": 22,
-   "Target": 14,
-   "Score": "45-20",
-   "Week": 7
- },
- {
-   "Source": 13,
-   "Target": 15,
-   "Score": "43-16",
-   "Week": 7
- },
- {
-   "Source": 30,
-   "Target": 11,
-   "Score": "33-6",
-   "Week": 7
- },
- {
-   "Source": 6,
-   "Target": 16,
-   "Score": "29-39",
-   "Week": 7
- },
- {
-   "Source": 31,
-   "Target": 32,
-   "Score": "34-37",
-   "Week": 7
- },
- {
-   "Source": 17,
-   "Target": 29,
-   "Score": "10-24.",
-   "Week": 7
- },
- {
-   "Source": 21,
-   "Target": 23,
-   "Score": "25-17",
-   "Week": 8
- },
- {
-   "Source": 11,
-   "Target": 10,
-   "Score": "21-24",
-   "Week": 8
- },
- {
-   "Source": 8,
-   "Target": 4,
-   "Score": "20-31",
-   "Week": 8
- },
- {
-   "Source": 14,
-   "Target": 2,
-   "Score": "16-6",
-   "Week": 8
- },
- {
-   "Source": 5,
-   "Target": 19,
-   "Score": "41-21",
-   "Week": 8
- },
- {
-   "Source": 20,
-   "Target": 18,
-   "Score": "28-22",
-   "Week": 8
- },
- {
-   "Source": 12,
-   "Target": 13,
-   "Score": "9-35.",
-   "Week": 8
- },
- {
-   "Source": 29,
-   "Target": 9,
-   "Score": "17-28",
-   "Week": 8
- },
- {
-   "Source": 3,
-   "Target": 1,
-   "Score": "28-24",
-   "Week": 8
- },
- {
-   "Source": 16,
-   "Target": 15,
-   "Score": "30-31",
-   "Week": 8
- },
- {
-   "Source": 24,
-   "Target": 17,
-   "Score": "26-23",
-   "Week": 8
- },
- {
-   "Source": 30,
-   "Target": 31,
-   "Score": "27-37",
-   "Week": 8
- },
- {
-   "Source": 25,
-   "Target": 27,
-   "Score": "9-23.",
-   "Week": 8
- },
- {
-   "Source": 22,
-   "Target": 26,
-   "Score": "25-23",
-   "Week": 8
- },
- {
-   "Source": 18,
-   "Target": 30,
-   "Score": "34-17",
-   "Week": 9
- },
- {
-   "Source": 15,
-   "Target": 21,
-   "Score": "27-34",
-   "Week": 9
- },
- {
-   "Source": 31,
-   "Target": 10,
-   "Score": "34-44",
-   "Week": 9
- },
- {
-   "Source": 1,
-   "Target": 5,
-   "Score": "24-10",
-   "Week": 9
- },
- {
-   "Source": 7,
-   "Target": 6,
-   "Score": "27-25",
-   "Week": 9
- },
- {
-   "Source": 23,
-   "Target": 13,
-   "Score": "31-33",
-   "Week": 9
- },
- {
-   "Source": 19,
-   "Target": 20,
-   "Score": "20-34",
-   "Week": 9
- },
- {
-   "Source": 17,
-   "Target": 8,
-   "Score": "17-24",
-   "Week": 9
- },
- {
-   "Source": 26,
-   "Target": 28,
-   "Score": "23-20",
-   "Week": 9
- },
- {
-   "Source": 14,
-   "Target": 16,
-   "Score": "31-26",
-   "Week": 9
- },
- {
-   "Source": 9,
-   "Target": 32,
-   "Score": "34-31",
-   "Week": 9
- },
- {
-   "Source": 3,
-   "Target": 25,
-   "Score": "24-19",
-   "Week": 9
- },
- {
-   "Source": 24,
-   "Target": 22,
-   "Score": "38-3",
-   "Week": 9
- },
- {
-   "Source": 11,
-   "Target": 12,
-   "Score": "30-27",
-   "Week": 9
- },
- {
-   "Source": 5,
-   "Target": 8,
-   "Score": "34-17",
-   "Week": 10
- },
- {
-   "Source": 22,
-   "Target": 23,
-   "Score": "46-23",
-   "Week": 10
- },
- {
-   "Source": 7,
-   "Target": 2,
-   "Score": "7-10.",
-   "Week": 10
- },
- {
-   "Source": 28,
-   "Target": 19,
-   "Score": "27-30",
-   "Week": 10
- },
- {
-   "Source": 6,
-   "Target": 18,
-   "Score": "20-24",
-   "Week": 10
- },
- {
-   "Source": 27,
-   "Target": 26,
-   "Score": "17-27",
-   "Week": 10
- },
- {
-   "Source": 10,
-   "Target": 32,
-   "Score": "30-32",
-   "Week": 10
- },
- {
-   "Source": 15,
-   "Target": 14,
-   "Score": "12-37.",
-   "Week": 10
- },
- {
-   "Source": 16,
-   "Target": 9,
-   "Score": "21-29",
-   "Week": 10
- },
- {
-   "Source": 4,
-   "Target": 3,
-   "Score": "10-36.",
-   "Week": 10
- },
- {
-   "Source": 31,
-   "Target": 29,
-   "Score": "16-23",
-   "Week": 10
- },
- {
-   "Source": 30,
-   "Target": 24,
-   "Score": "13-27",
-   "Week": 10
- },
- {
-   "Source": 1,
-   "Target": 11,
-   "Score": "17-23",
-   "Week": 10
- },
- {
-   "Source": 20,
-   "Target": 17,
-   "Score": "19-13",
-   "Week": 10
- },
- {
-   "Source": 32,
-   "Target": 31,
-   "Score": "21-28",
-   "Week": 11
- },
- {
-   "Source": 8,
-   "Target": 1,
-   "Score": "30-24",
-   "Week": 11
- },
- {
-   "Source": 19,
-   "Target": 23,
-   "Score": "0-20",
-   "Week": 11
- },
- {
-   "Source": 27,
-   "Target": 2,
-   "Score": "17-22",
-   "Week": 11
- },
- {
-   "Source": 11,
-   "Target": 7,
-   "Score": "20-27",
-   "Week": 11
- },
- {
-   "Source": 3,
-   "Target": 6,
-   "Score": "27-3",
-   "Week": 11
- },
- {
-   "Source": 21,
-   "Target": 24,
-   "Score": "9-24.",
-   "Week": 11
- },
- {
-   "Source": 4,
-   "Target": 28,
-   "Score": "9-20.",
-   "Week": 11
- },
- {
-   "Source": 9,
-   "Target": 15,
-   "Score": "13-20",
-   "Week": 11
- },
- {
-   "Source": 12,
-   "Target": 16,
-   "Score": "28-34",
-   "Week": 11
- },
- {
-   "Source": 25,
-   "Target": 20,
-   "Score": "31-28",
-   "Week": 11
- },
- {
-   "Source": 13,
-   "Target": 14,
-   "Score": "35-31",
-   "Week": 11
- },
- {
-   "Source": 29,
-   "Target": 22,
-   "Score": "27-24",
-   "Week": 11
- },
- {
-   "Source": 7,
-   "Target": 19,
-   "Score": "41-25",
-   "Week": 12
- },
- {
-   "Source": 28,
-   "Target": 25,
-   "Score": "41-16",
-   "Week": 12
- },
- {
-   "Source": 14,
-   "Target": 21,
-   "Score": "6-43.",
-   "Week": 12
- },
- {
-   "Source": 16,
-   "Target": 10,
-   "Score": "17-27",
-   "Week": 12
- },
- {
-   "Source": 26,
-   "Target": 4,
-   "Score": "19-17",
-   "Week": 12
- },
- {
-   "Source": 8,
-   "Target": 5,
-   "Score": "45-26",
-   "Week": 12
- },
- {
-   "Source": 2,
-   "Target": 6,
-   "Score": "27-25",
-   "Week": 12
- },
- {
-   "Source": 23,
-   "Target": 20,
-   "Score": "27-28",
-   "Week": 12
- },
- {
-   "Source": 32,
-   "Target": 11,
-   "Score": "17-20",
-   "Week": 12
- },
- {
-   "Source": 9,
-   "Target": 12,
-   "Score": "20-3",
-   "Week": 12
- },
- {
-   "Source": 24,
-   "Target": 15,
-   "Score": "31-3",
-   "Week": 12
- },
- {
-   "Source": 30,
-   "Target": 29,
-   "Score": "23-20",
-   "Week": 12
- },
- {
-   "Source": 13,
-   "Target": 22,
-   "Score": "27-24",
-   "Week": 12
- },
- {
-   "Source": 17,
-   "Target": 18,
-   "Score": "25-41",
-   "Week": 12
- },
- {
-   "Source": 31,
-   "Target": 27,
-   "Score": "23-17",
-   "Week": 12
- },
- {
-   "Source": 1,
-   "Target": 3,
-   "Score": "14-19",
-   "Week": 12
- },
- {
-   "Source": 24,
-   "Target": 21,
-   "Score": "21-16",
-   "Week": 13
- },
- {
-   "Source": 19,
-   "Target": 17,
-   "Score": "34-30",
-   "Week": 13
- },
- {
-   "Source": 5,
-   "Target": 7,
-   "Score": "26-20",
-   "Week": 13
- },
- {
-   "Source": 4,
-   "Target": 9,
-   "Score": "7-19.",
-   "Week": 13
- },
- {
-   "Source": 6,
-   "Target": 20,
-   "Score": "24-27",
-   "Week": 13
- },
- {
-   "Source": 14,
-   "Target": 12,
-   "Score": "31-28",
-   "Week": 13
- },
- {
-   "Source": 2,
-   "Target": 8,
-   "Score": "41-35",
-   "Week": 13
- },
- {
-   "Source": 29,
-   "Target": 32,
-   "Score": "38-28",
-   "Week": 13
- },
- {
-   "Source": 26,
-   "Target": 31,
-   "Score": "17-12",
-   "Week": 13
- },
- {
-   "Source": 27,
-   "Target": 18,
-   "Score": "16-30",
-   "Week": 13
- },
- {
-   "Source": 11,
-   "Target": 16,
-   "Score": "45-0",
-   "Week": 13
- },
- {
-   "Source": 15,
-   "Target": 13,
-   "Score": "16-22",
-   "Week": 13
- },
- {
-   "Source": 28,
-   "Target": 3,
-   "Score": "23-17",
-   "Week": 13
- },
- {
-   "Source": 10,
-   "Target": 30,
-   "Score": "34-24",
-   "Week": 13
- },
- {
-   "Source": 25,
-   "Target": 1,
-   "Score": "17-34",
-   "Week": 13
- },
- {
-   "Source": 11,
-   "Target": 29,
-   "Score": "3-24.",
-   "Week": 14
- },
- {
-   "Source": 15,
-   "Target": 23,
-   "Score": "32-27",
-   "Week": 14
- },
- {
-   "Source": 7,
-   "Target": 17,
-   "Score": "7-36.",
-   "Week": 14
- },
- {
-   "Source": 25,
-   "Target": 4,
-   "Score": "30-7",
-   "Week": 14
- },
- {
-   "Source": 8,
-   "Target": 6,
-   "Score": "31-10",
-   "Week": 14
- },
- {
-   "Source": 13,
-   "Target": 9,
-   "Score": "33-27",
-   "Week": 14
- },
- {
-   "Source": 32,
-   "Target": 26,
-   "Score": "26-7",
-   "Week": 14
- },
- {
-   "Source": 20,
-   "Target": 22,
-   "Score": "14-26",
-   "Week": 14
- },
- {
-   "Source": 5,
-   "Target": 14,
-   "Score": "44-27",
-   "Week": 14
- },
- {
-   "Source": 12,
-   "Target": 31,
-   "Score": "3-40.",
-   "Week": 14
- },
- {
-   "Source": 18,
-   "Target": 19,
-   "Score": "31-24",
-   "Week": 14
- },
- {
-   "Source": 21,
-   "Target": 16,
-   "Score": "17-20",
-   "Week": 14
- },
- {
-   "Source": 24,
-   "Target": 27,
-   "Score": "21-24",
-   "Week": 14
- },
- {
-   "Source": 28,
-   "Target": 30,
-   "Score": "23-15",
-   "Week": 14
- },
- {
-   "Source": 3,
-   "Target": 10,
-   "Score": "15-26",
-   "Week": 14
- },
- {
-   "Source": 1,
-   "Target": 2,
-   "Score": "47-42",
-   "Week": 14
- },
- {
-   "Source": 16,
-   "Target": 14,
-   "Score": "30-27",
-   "Week": 15
- },
- {
-   "Source": 10,
-   "Target": 15,
-   "Score": "48-19",
-   "Week": 15
- },
- {
-   "Source": 23,
-   "Target": 18,
-   "Score": "16-24",
-   "Week": 15
- },
- {
-   "Source": 7,
-   "Target": 5,
-   "Score": "20-27",
-   "Week": 15
- },
- {
-   "Source": 19,
-   "Target": 8,
-   "Score": "25-46",
-   "Week": 15
- },
- {
-   "Source": 22,
-   "Target": 21,
-   "Score": "31-27",
-   "Week": 15
- },
- {
-   "Source": 6,
-   "Target": 1,
-   "Score": "14-40",
-   "Week": 15
- },
- {
-   "Source": 11,
-   "Target": 9,
-   "Score": "12-22.",
-   "Week": 15
- },
- {
-   "Source": 17,
-   "Target": 20,
-   "Score": "33-27",
-   "Week": 15
- },
- {
-   "Source": 31,
-   "Target": 28,
-   "Score": "20-15",
-   "Week": 15
- },
- {
-   "Source": 30,
-   "Target": 25,
-   "Score": "33-41",
-   "Week": 15
- },
- {
-   "Source": 12,
-   "Target": 29,
-   "Score": "23-20",
-   "Week": 15
- },
- {
-   "Source": 27,
-   "Target": 32,
-   "Score": "26-33",
-   "Week": 15
- },
- {
-   "Source": 13,
-   "Target": 29,
-   "Score": "32-29",
-   "Week": 15
- },
- {
-   "Source": 2,
-   "Target": 26,
-   "Score": "20-6",
-   "Week": 15
- },
- {
-   "Source": 3,
-   "Target": 4,
-   "Score": "17-27",
-   "Week": 15
- },
- {
-   "Source": 20,
-   "Target": 24,
-   "Score": "33-52",
-   "Week": 16
- },
- {
-   "Source": 22,
-   "Target": 19,
-   "Score": "47-7",
-   "Week": 16
- },
- {
-   "Source": 30,
-   "Target": 32,
-   "Score": "20-12",
-   "Week": 16
- },
- {
-   "Source": 9,
-   "Target": 14,
-   "Score": "26-25",
-   "Week": 16
- },
- {
-   "Source": 2,
-   "Target": 12,
-   "Score": "16-23",
-   "Week": 16
- },
- {
-   "Source": 26,
-   "Target": 1,
-   "Score": "13-27",
-   "Week": 16
- },
- {
-   "Source": 4,
-   "Target": 10,
-   "Score": "37-31",
-   "Week": 16
- },
- {
-   "Source": 17,
-   "Target": 6,
-   "Score": "41-17",
-   "Week": 16
- },
- {
-   "Source": 21,
-   "Target": 13,
-   "Score": "14-17",
-   "Week": 16
- },
- {
-   "Source": 5,
-   "Target": 3,
-   "Score": "24-28",
-   "Week": 16
- },
- {
-   "Source": 15,
-   "Target": 16,
-   "Score": "16-19",
-   "Week": 16
- },
- {
-   "Source": 23,
-   "Target": 28,
-   "Score": "20-13",
-   "Week": 16
- },
- {
-   "Source": 29,
-   "Target": 31,
-   "Score": "9-20.",
-   "Week": 16
- },
- {
-   "Source": 27,
-   "Target": 25,
-   "Score": "17-37",
-   "Week": 16
- },
- {
-   "Source": 8,
-   "Target": 18,
-   "Score": "14-40",
-   "Week": 16
- },
- {
-   "Source": 10,
-   "Target": 11,
-   "Score": "38-9",
-   "Week": 16
- },
- {
-   "Source": 9,
-   "Target": 10,
-   "Score": "26-56",
-   "Week": 17
- },
- {
-   "Source": 1,
-   "Target": 4,
-   "Score": "38-3",
-   "Week": 17
- },
- {
-   "Source": 3,
-   "Target": 2,
-   "Score": "22-24",
-   "Week": 17
- },
- {
-   "Source": 20,
-   "Target": 19,
-   "Score": "37-35",
-   "Week": 17
- },
- {
-   "Source": 12,
-   "Target": 11,
-   "Score": "14-28",
-   "Week": 17
- },
- {
-   "Source": 25,
-   "Target": 26,
-   "Score": "19-23",
-   "Week": 17
- },
- {
-   "Source": 21,
-   "Target": 22,
-   "Score": "27-44",
-   "Week": 17
- },
- {
-   "Source": 24,
-   "Target": 23,
-   "Score": "33-7",
-   "Week": 17
- },
- {
-   "Source": 26,
-   "Target": 17,
-   "Score": "35-16",
-   "Week": 17
- },
- {
-   "Source": 16,
-   "Target": 13,
-   "Score": "38-21",
-   "Week": 17
- },
- {
-   "Source": 14,
-   "Target": 15,
-   "Score": "32-31",
-   "Week": 17
- },
- {
-   "Source": 8,
-   "Target": 7,
-   "Score": "41-38",
-   "Week": 17
- },
- {
-   "Source": 6,
-   "Target": 5,
-   "Score": "14-28",
-   "Week": 17
- },
- {
-   "Source": 32,
-   "Target": 29,
-   "Score": "7-18.",
-   "Week": 17
- },
- {
-   "Source": 31,
-   "Target": 30,
-   "Score": "26-23",
-   "Week": 17
- },
- {
-   "Source": 28,
-   "Target": 27,
-   "Score": "20-14",
-   "Week": 17
- }
-]
+    {"id": "Myriel", "group": 1},
+    {"id": "Napoleon", "group": 1},
+    {"id": "Mlle.Baptistine", "group": 1},
+    {"id": "Mme.Magloire", "group": 1},
+    {"id": "CountessdeLo", "group": 1},
+    {"id": "Geborand", "group": 1},
+    {"id": "Champtercier", "group": 1},
+    {"id": "Cravatte", "group": 1},
+    {"id": "Count", "group": 1},
+    {"id": "OldMan", "group": 1},
+    {"id": "Labarre", "group": 2},
+    {"id": "Valjean", "group": 2},
+    {"id": "Marguerite", "group": 3},
+    {"id": "Mme.deR", "group": 2},
+    {"id": "Isabeau", "group": 2},
+    {"id": "Gervais", "group": 2},
+    {"id": "Tholomyes", "group": 3},
+    {"id": "Listolier", "group": 3},
+    {"id": "Fameuil", "group": 3},
+    {"id": "Blacheville", "group": 3},
+    {"id": "Favourite", "group": 3},
+    {"id": "Dahlia", "group": 3},
+    {"id": "Zephine", "group": 3},
+    {"id": "Fantine", "group": 3},
+    {"id": "Mme.Thenardier", "group": 4},
+    {"id": "Thenardier", "group": 4},
+    {"id": "Cosette", "group": 5},
+    {"id": "Javert", "group": 4},
+    {"id": "Fauchelevent", "group": 0},
+    {"id": "Bamatabois", "group": 2},
+    {"id": "Perpetue", "group": 3},
+    {"id": "Simplice", "group": 2},
+    {"id": "Scaufflaire", "group": 2},
+    {"id": "Woman1", "group": 2},
+    {"id": "Judge", "group": 2},
+    {"id": "Champmathieu", "group": 2},
+    {"id": "Brevet", "group": 2},
+    {"id": "Chenildieu", "group": 2},
+    {"id": "Cochepaille", "group": 2},
+    {"id": "Pontmercy", "group": 4},
+    {"id": "Boulatruelle", "group": 6},
+    {"id": "Eponine", "group": 4},
+    {"id": "Anzelma", "group": 4},
+    {"id": "Woman2", "group": 5},
+    {"id": "MotherInnocent", "group": 0},
+    {"id": "Gribier", "group": 0},
+    {"id": "Jondrette", "group": 7},
+    {"id": "Mme.Burgon", "group": 7},
+    {"id": "Gavroche", "group": 8},
+    {"id": "Gillenormand", "group": 5},
+    {"id": "Magnon", "group": 5},
+    {"id": "Mlle.Gillenormand", "group": 5},
+    {"id": "Mme.Pontmercy", "group": 5},
+    {"id": "Mlle.Vaubois", "group": 5},
+    {"id": "Lt.Gillenormand", "group": 5},
+    {"id": "Marius", "group": 8},
+    {"id": "BaronessT", "group": 5},
+    {"id": "Mabeuf", "group": 8},
+    {"id": "Enjolras", "group": 8},
+    {"id": "Combeferre", "group": 8},
+    {"id": "Prouvaire", "group": 8},
+    {"id": "Feuilly", "group": 8},
+    {"id": "Courfeyrac", "group": 8},
+    {"id": "Bahorel", "group": 8},
+    {"id": "Bossuet", "group": 8},
+    {"id": "Joly", "group": 8},
+    {"id": "Grantaire", "group": 8},
+    {"id": "MotherPlutarch", "group": 9},
+    {"id": "Gueulemer", "group": 4},
+    {"id": "Babet", "group": 4},
+    {"id": "Claquesous", "group": 4},
+    {"id": "Montparnasse", "group": 4},
+    {"id": "Toussaint", "group": 5},
+    {"id": "Child1", "group": 10},
+    {"id": "Child2", "group": 10},
+    {"id": "Brujon", "group": 4},
+    {"id": "Mme.Hucheloup", "group": 8}
+  ],
+  "links": [
+    {"source": "Napoleon", "target": "Myriel", "value": 1},
+    {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},
+    {"source": "Mme.Magloire", "target": "Myriel", "value": 10},
+    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
+    {"source": "CountessdeLo", "target": "Myriel", "value": 1},
+    {"source": "Geborand", "target": "Myriel", "value": 1},
+    {"source": "Champtercier", "target": "Myriel", "value": 1},
+    {"source": "Cravatte", "target": "Myriel", "value": 1},
+    {"source": "Count", "target": "Myriel", "value": 2},
+    {"source": "OldMan", "target": "Myriel", "value": 1},
+    {"source": "Valjean", "target": "Labarre", "value": 1},
+    {"source": "Valjean", "target": "Mme.Magloire", "value": 3},
+    {"source": "Valjean", "target": "Mlle.Baptistine", "value": 3},
+    {"source": "Valjean", "target": "Myriel", "value": 5},
+    {"source": "Marguerite", "target": "Valjean", "value": 1},
+    {"source": "Mme.deR", "target": "Valjean", "value": 1},
+    {"source": "Isabeau", "target": "Valjean", "value": 1},
+    {"source": "Gervais", "target": "Valjean", "value": 1},
+    {"source": "Listolier", "target": "Tholomyes", "value": 4},
+    {"source": "Fameuil", "target": "Tholomyes", "value": 4},
+    {"source": "Fameuil", "target": "Listolier", "value": 4},
+    {"source": "Blacheville", "target": "Tholomyes", "value": 4},
+    {"source": "Blacheville", "target": "Listolier", "value": 4},
+    {"source": "Blacheville", "target": "Fameuil", "value": 4},
+    {"source": "Favourite", "target": "Tholomyes", "value": 3},
+    {"source": "Favourite", "target": "Listolier", "value": 3},
+    {"source": "Favourite", "target": "Fameuil", "value": 3},
+    {"source": "Favourite", "target": "Blacheville", "value": 4},
+    {"source": "Dahlia", "target": "Tholomyes", "value": 3},
+    {"source": "Dahlia", "target": "Listolier", "value": 3},
+    {"source": "Dahlia", "target": "Fameuil", "value": 3},
+    {"source": "Dahlia", "target": "Blacheville", "value": 3},
+    {"source": "Dahlia", "target": "Favourite", "value": 5},
+    {"source": "Zephine", "target": "Tholomyes", "value": 3},
+    {"source": "Zephine", "target": "Listolier", "value": 3},
+    {"source": "Zephine", "target": "Fameuil", "value": 3},
+    {"source": "Zephine", "target": "Blacheville", "value": 3},
+    {"source": "Zephine", "target": "Favourite", "value": 4},
+    {"source": "Zephine", "target": "Dahlia", "value": 4},
+    {"source": "Fantine", "target": "Tholomyes", "value": 3},
+    {"source": "Fantine", "target": "Listolier", "value": 3},
+    {"source": "Fantine", "target": "Fameuil", "value": 3},
+    {"source": "Fantine", "target": "Blacheville", "value": 3},
+    {"source": "Fantine", "target": "Favourite", "value": 4},
+    {"source": "Fantine", "target": "Dahlia", "value": 4},
+    {"source": "Fantine", "target": "Zephine", "value": 4},
+    {"source": "Fantine", "target": "Marguerite", "value": 2},
+    {"source": "Fantine", "target": "Valjean", "value": 9},
+    {"source": "Mme.Thenardier", "target": "Fantine", "value": 2},
+    {"source": "Mme.Thenardier", "target": "Valjean", "value": 7},
+    {"source": "Thenardier", "target": "Mme.Thenardier", "value": 13},
+    {"source": "Thenardier", "target": "Fantine", "value": 1},
+    {"source": "Thenardier", "target": "Valjean", "value": 12},
+    {"source": "Cosette", "target": "Mme.Thenardier", "value": 4},
+    {"source": "Cosette", "target": "Valjean", "value": 31},
+    {"source": "Cosette", "target": "Tholomyes", "value": 1},
+    {"source": "Cosette", "target": "Thenardier", "value": 1},
+    {"source": "Javert", "target": "Valjean", "value": 17},
+    {"source": "Javert", "target": "Fantine", "value": 5},
+    {"source": "Javert", "target": "Thenardier", "value": 5},
+    {"source": "Javert", "target": "Mme.Thenardier", "value": 1},
+    {"source": "Javert", "target": "Cosette", "value": 1},
+    {"source": "Fauchelevent", "target": "Valjean", "value": 8},
+    {"source": "Fauchelevent", "target": "Javert", "value": 1},
+    {"source": "Bamatabois", "target": "Fantine", "value": 1},
+    {"source": "Bamatabois", "target": "Javert", "value": 1},
+    {"source": "Bamatabois", "target": "Valjean", "value": 2},
+    {"source": "Perpetue", "target": "Fantine", "value": 1},
+    {"source": "Simplice", "target": "Perpetue", "value": 2},
+    {"source": "Simplice", "target": "Valjean", "value": 3},
+    {"source": "Simplice", "target": "Fantine", "value": 2},
+    {"source": "Simplice", "target": "Javert", "value": 1},
+    {"source": "Scaufflaire", "target": "Valjean", "value": 1},
+    {"source": "Woman1", "target": "Valjean", "value": 2},
+    {"source": "Woman1", "target": "Javert", "value": 1},
+    {"source": "Judge", "target": "Valjean", "value": 3},
+    {"source": "Judge", "target": "Bamatabois", "value": 2},
+    {"source": "Champmathieu", "target": "Valjean", "value": 3},
+    {"source": "Champmathieu", "target": "Judge", "value": 3},
+    {"source": "Champmathieu", "target": "Bamatabois", "value": 2},
+    {"source": "Brevet", "target": "Judge", "value": 2},
+    {"source": "Brevet", "target": "Champmathieu", "value": 2},
+    {"source": "Brevet", "target": "Valjean", "value": 2},
+    {"source": "Brevet", "target": "Bamatabois", "value": 1},
+    {"source": "Chenildieu", "target": "Judge", "value": 2},
+    {"source": "Chenildieu", "target": "Champmathieu", "value": 2},
+    {"source": "Chenildieu", "target": "Brevet", "value": 2},
+    {"source": "Chenildieu", "target": "Valjean", "value": 2},
+    {"source": "Chenildieu", "target": "Bamatabois", "value": 1},
+    {"source": "Cochepaille", "target": "Judge", "value": 2},
+    {"source": "Cochepaille", "target": "Champmathieu", "value": 2},
+    {"source": "Cochepaille", "target": "Brevet", "value": 2},
+    {"source": "Cochepaille", "target": "Chenildieu", "value": 2},
+    {"source": "Cochepaille", "target": "Valjean", "value": 2},
+    {"source": "Cochepaille", "target": "Bamatabois", "value": 1},
+    {"source": "Pontmercy", "target": "Thenardier", "value": 1},
+    {"source": "Boulatruelle", "target": "Thenardier", "value": 1},
+    {"source": "Eponine", "target": "Mme.Thenardier", "value": 2},
+    {"source": "Eponine", "target": "Thenardier", "value": 3},
+    {"source": "Anzelma", "target": "Eponine", "value": 2},
+    {"source": "Anzelma", "target": "Thenardier", "value": 2},
+    {"source": "Anzelma", "target": "Mme.Thenardier", "value": 1},
+    {"source": "Woman2", "target": "Valjean", "value": 3},
+    {"source": "Woman2", "target": "Cosette", "value": 1},
+    {"source": "Woman2", "target": "Javert", "value": 1},
+    {"source": "MotherInnocent", "target": "Fauchelevent", "value": 3},
+    {"source": "MotherInnocent", "target": "Valjean", "value": 1},
+    {"source": "Gribier", "target": "Fauchelevent", "value": 2},
+    {"source": "Mme.Burgon", "target": "Jondrette", "value": 1},
+    {"source": "Gavroche", "target": "Mme.Burgon", "value": 2},
+    {"source": "Gavroche", "target": "Thenardier", "value": 1},
+    {"source": "Gavroche", "target": "Javert", "value": 1},
+    {"source": "Gavroche", "target": "Valjean", "value": 1},
+    {"source": "Gillenormand", "target": "Cosette", "value": 3},
+    {"source": "Gillenormand", "target": "Valjean", "value": 2},
+    {"source": "Magnon", "target": "Gillenormand", "value": 1},
+    {"source": "Magnon", "target": "Mme.Thenardier", "value": 1},
+    {"source": "Mlle.Gillenormand", "target": "Gillenormand", "value": 9},
+    {"source": "Mlle.Gillenormand", "target": "Cosette", "value": 2},
+    {"source": "Mlle.Gillenormand", "target": "Valjean", "value": 2},
+    {"source": "Mme.Pontmercy", "target": "Mlle.Gillenormand", "value": 1},
+    {"source": "Mme.Pontmercy", "target": "Pontmercy", "value": 1},
+    {"source": "Mlle.Vaubois", "target": "Mlle.Gillenormand", "value": 1},
+    {"source": "Lt.Gillenormand", "target": "Mlle.Gillenormand", "value": 2},
+    {"source": "Lt.Gillenormand", "target": "Gillenormand", "value": 1},
+    {"source": "Lt.Gillenormand", "target": "Cosette", "value": 1},
+    {"source": "Marius", "target": "Mlle.Gillenormand", "value": 6},
+    {"source": "Marius", "target": "Gillenormand", "value": 12},
+    {"source": "Marius", "target": "Pontmercy", "value": 1},
+    {"source": "Marius", "target": "Lt.Gillenormand", "value": 1},
+    {"source": "Marius", "target": "Cosette", "value": 21},
+    {"source": "Marius", "target": "Valjean", "value": 19},
+    {"source": "Marius", "target": "Tholomyes", "value": 1},
+    {"source": "Marius", "target": "Thenardier", "value": 2},
+    {"source": "Marius", "target": "Eponine", "value": 5},
+    {"source": "Marius", "target": "Gavroche", "value": 4},
+    {"source": "BaronessT", "target": "Gillenormand", "value": 1},
+    {"source": "BaronessT", "target": "Marius", "value": 1},
+    {"source": "Mabeuf", "target": "Marius", "value": 1},
+    {"source": "Mabeuf", "target": "Eponine", "value": 1},
+    {"source": "Mabeuf", "target": "Gavroche", "value": 1},
+    {"source": "Enjolras", "target": "Marius", "value": 7},
+    {"source": "Enjolras", "target": "Gavroche", "value": 7},
+    {"source": "Enjolras", "target": "Javert", "value": 6},
+    {"source": "Enjolras", "target": "Mabeuf", "value": 1},
+    {"source": "Enjolras", "target": "Valjean", "value": 4},
+    {"source": "Combeferre", "target": "Enjolras", "value": 15},
+    {"source": "Combeferre", "target": "Marius", "value": 5},
+    {"source": "Combeferre", "target": "Gavroche", "value": 6},
+    {"source": "Combeferre", "target": "Mabeuf", "value": 2},
+    {"source": "Prouvaire", "target": "Gavroche", "value": 1},
+    {"source": "Prouvaire", "target": "Enjolras", "value": 4},
+    {"source": "Prouvaire", "target": "Combeferre", "value": 2},
+    {"source": "Feuilly", "target": "Gavroche", "value": 2},
+    {"source": "Feuilly", "target": "Enjolras", "value": 6},
+    {"source": "Feuilly", "target": "Prouvaire", "value": 2},
+    {"source": "Feuilly", "target": "Combeferre", "value": 5},
+    {"source": "Feuilly", "target": "Mabeuf", "value": 1},
+    {"source": "Feuilly", "target": "Marius", "value": 1},
+    {"source": "Courfeyrac", "target": "Marius", "value": 9},
+    {"source": "Courfeyrac", "target": "Enjolras", "value": 17},
+    {"source": "Courfeyrac", "target": "Combeferre", "value": 13},
+    {"source": "Courfeyrac", "target": "Gavroche", "value": 7},
+    {"source": "Courfeyrac", "target": "Mabeuf", "value": 2},
+    {"source": "Courfeyrac", "target": "Eponine", "value": 1},
+    {"source": "Courfeyrac", "target": "Feuilly", "value": 6},
+    {"source": "Courfeyrac", "target": "Prouvaire", "value": 3},
+    {"source": "Bahorel", "target": "Combeferre", "value": 5},
+    {"source": "Bahorel", "target": "Gavroche", "value": 5},
+    {"source": "Bahorel", "target": "Courfeyrac", "value": 6},
+    {"source": "Bahorel", "target": "Mabeuf", "value": 2},
+    {"source": "Bahorel", "target": "Enjolras", "value": 4},
+    {"source": "Bahorel", "target": "Feuilly", "value": 3},
+    {"source": "Bahorel", "target": "Prouvaire", "value": 2},
+    {"source": "Bahorel", "target": "Marius", "value": 1},
+    {"source": "Bossuet", "target": "Marius", "value": 5},
+    {"source": "Bossuet", "target": "Courfeyrac", "value": 12},
+    {"source": "Bossuet", "target": "Gavroche", "value": 5},
+    {"source": "Bossuet", "target": "Bahorel", "value": 4},
+    {"source": "Bossuet", "target": "Enjolras", "value": 10},
+    {"source": "Bossuet", "target": "Feuilly", "value": 6},
+    {"source": "Bossuet", "target": "Prouvaire", "value": 2},
+    {"source": "Bossuet", "target": "Combeferre", "value": 9},
+    {"source": "Bossuet", "target": "Mabeuf", "value": 1},
+    {"source": "Bossuet", "target": "Valjean", "value": 1},
+    {"source": "Joly", "target": "Bahorel", "value": 5},
+    {"source": "Joly", "target": "Bossuet", "value": 7},
+    {"source": "Joly", "target": "Gavroche", "value": 3},
+    {"source": "Joly", "target": "Courfeyrac", "value": 5},
+    {"source": "Joly", "target": "Enjolras", "value": 5},
+    {"source": "Joly", "target": "Feuilly", "value": 5},
+    {"source": "Joly", "target": "Prouvaire", "value": 2},
+    {"source": "Joly", "target": "Combeferre", "value": 5},
+    {"source": "Joly", "target": "Mabeuf", "value": 1},
+    {"source": "Joly", "target": "Marius", "value": 2},
+    {"source": "Grantaire", "target": "Bossuet", "value": 3},
+    {"source": "Grantaire", "target": "Enjolras", "value": 3},
+    {"source": "Grantaire", "target": "Combeferre", "value": 1},
+    {"source": "Grantaire", "target": "Courfeyrac", "value": 2},
+    {"source": "Grantaire", "target": "Joly", "value": 2},
+    {"source": "Grantaire", "target": "Gavroche", "value": 1},
+    {"source": "Grantaire", "target": "Bahorel", "value": 1},
+    {"source": "Grantaire", "target": "Feuilly", "value": 1},
+    {"source": "Grantaire", "target": "Prouvaire", "value": 1},
+    {"source": "MotherPlutarch", "target": "Mabeuf", "value": 3},
+    {"source": "Gueulemer", "target": "Thenardier", "value": 5},
+    {"source": "Gueulemer", "target": "Valjean", "value": 1},
+    {"source": "Gueulemer", "target": "Mme.Thenardier", "value": 1},
+    {"source": "Gueulemer", "target": "Javert", "value": 1},
+    {"source": "Gueulemer", "target": "Gavroche", "value": 1},
+    {"source": "Gueulemer", "target": "Eponine", "value": 1},
+    {"source": "Babet", "target": "Thenardier", "value": 6},
+    {"source": "Babet", "target": "Gueulemer", "value": 6},
+    {"source": "Babet", "target": "Valjean", "value": 1},
+    {"source": "Babet", "target": "Mme.Thenardier", "value": 1},
+    {"source": "Babet", "target": "Javert", "value": 2},
+    {"source": "Babet", "target": "Gavroche", "value": 1},
+    {"source": "Babet", "target": "Eponine", "value": 1},
+    {"source": "Claquesous", "target": "Thenardier", "value": 4},
+    {"source": "Claquesous", "target": "Babet", "value": 4},
+    {"source": "Claquesous", "target": "Gueulemer", "value": 4},
+    {"source": "Claquesous", "target": "Valjean", "value": 1},
+    {"source": "Claquesous", "target": "Mme.Thenardier", "value": 1},
+    {"source": "Claquesous", "target": "Javert", "value": 1},
+    {"source": "Claquesous", "target": "Eponine", "value": 1},
+    {"source": "Claquesous", "target": "Enjolras", "value": 1},
+    {"source": "Montparnasse", "target": "Javert", "value": 1},
+    {"source": "Montparnasse", "target": "Babet", "value": 2},
+    {"source": "Montparnasse", "target": "Gueulemer", "value": 2},
+    {"source": "Montparnasse", "target": "Claquesous", "value": 2},
+    {"source": "Montparnasse", "target": "Valjean", "value": 1},
+    {"source": "Montparnasse", "target": "Gavroche", "value": 1},
+    {"source": "Montparnasse", "target": "Eponine", "value": 1},
+    {"source": "Montparnasse", "target": "Thenardier", "value": 1},
+    {"source": "Toussaint", "target": "Cosette", "value": 2},
+    {"source": "Toussaint", "target": "Javert", "value": 1},
+    {"source": "Toussaint", "target": "Valjean", "value": 1},
+    {"source": "Child1", "target": "Gavroche", "value": 2},
+    {"source": "Child2", "target": "Gavroche", "value": 2},
+    {"source": "Child2", "target": "Child1", "value": 3},
+    {"source": "Brujon", "target": "Babet", "value": 3},
+    {"source": "Brujon", "target": "Gueulemer", "value": 3},
+    {"source": "Brujon", "target": "Thenardier", "value": 3},
+    {"source": "Brujon", "target": "Gavroche", "value": 1},
+    {"source": "Brujon", "target": "Eponine", "value": 1},
+    {"source": "Brujon", "target": "Claquesous", "value": 1},
+    {"source": "Brujon", "target": "Montparnasse", "value": 1},
+    {"source": "Mme.Hucheloup", "target": "Bossuet", "value": 1},
+    {"source": "Mme.Hucheloup", "target": "Joly", "value": 1},
+    {"source": "Mme.Hucheloup", "target": "Grantaire", "value": 1},
+    {"source": "Mme.Hucheloup", "target": "Bahorel", "value": 1},
+    {"source": "Mme.Hucheloup", "target": "Courfeyrac", "value": 1},
+    {"source": "Mme.Hucheloup", "target": "Gavroche", "value": 1},
+    {"source": "Mme.Hucheloup", "target": "Enjolras", "value": 1}
+  ]
 }
