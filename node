@@ -1,0 +1,192 @@
+{
+   id: "Ravens",
+   name: "Ravens",
+   region: "AFC North",
+   level: "AFC"
+ },
+ {
+   id: "Browns",
+   name: "Browns",
+   region: "AFC North",
+  level: "AFC"
+ },
+ {
+   id: "Steelers",
+   name: "Steelers",
+   region: "AFC North",
+  level: "AFC"
+ },
+ {
+   id: "Bengals",
+   name: "Bengals",
+   region: "AFC North",
+  level: "AFC"
+ },
+ {
+   id: "Colts",
+   name: "Colts",
+   region: "AFC South",
+  level: "AFC"
+ },
+ {
+   id: "Jaguars",
+   name: "Jaguars",
+   region: "AFC South",
+  level: "AFC"
+ },
+ {
+   id: "Texans",
+   name: "Texans",
+   region: "AFC South",
+  level: "AFC"
+ },
+ {
+   id: "Titans",
+   name: "Titans",
+   region: "AFC South",
+  level: "AFC"
+ },
+ {
+   id: "Dolphine",
+   name: "Dolphine",
+   region: "AFC East",
+  level: "AFC"
+ },
+ {
+   id: "Bills",
+   name: "Bills",
+   region: "AFC East",
+  level: "AFC"
+ },
+ {
+   id: "Patriots",
+   name: "Patriots",
+   region: "AFC East",
+  level: "AFC"
+ },
+ {
+   id: "Jets",
+   name: "Jets",
+   region: "AFC East",
+  level: "AFC"
+ },
+ {
+   id: "Chiefs",
+   name: "Chiefs",
+   region: "AFC West",
+  level: "AFC"
+ },
+ {
+   id: "Raiders",
+   name: "Raiders",
+   region: "AFC West",
+  level: "AFC"
+ },
+ {
+   id: "Broncos",
+   name: "Broncos",
+   region: "AFC West",
+  level: "AFC"
+ },
+ {
+   id: "Chargers",
+   name: "Chargers",
+   region: "AFC West",
+  level: "AFC"
+ },
+ {
+   id: "Bears",
+   name: "Bears",
+   region: "NFC North",
+  level: "NFC"
+ },
+ {
+   id: "Packers",
+   name: "Packers",
+   region: "NFC North",
+  level: "NFC"
+ },
+ {
+   id: "Lions",
+   name: "Lions",
+   region: "NFC North",
+  level: "NFC"
+ },
+ {
+   id: "Vikings",
+   name: "Vikings",
+   region: "NFC North",
+  level: "NFC"
+ },
+ {
+   id: "Falcons",
+   name: "Falcons",
+   region: "NFC South",
+  level: "NFC"
+ },
+ {
+   id: "Buccaneers",
+   name: "Buccaneers",
+   region: "NFC South",
+  level: "NFC"
+ },
+ {
+   id: "Panthers",
+   name: "Panthers",
+   region: "NFC South",
+  level: "NFC"
+ },
+ {
+   id: "Saints",
+   name: "Saints",
+   region: "NFC South",
+  level: "NFC"
+ },
+ {
+   id: "Cowboys",
+   name: "Cowboys",
+   region: "NFC East",
+  level: "NFC"
+ },
+ {
+   id: "Giants",
+   name: "Giants",
+   region: "NFC East",
+  level: "NFC"
+ },
+ {
+   id: "Eagles",
+   name: "Eagles",
+   region: "NFC East",
+  level: "NFC"
+ },
+ {
+   id: "Football Team",
+   name: "Football Team",
+   region: "NFC East",
+  level: "NFC"
+ },
+ {
+   id: "Rams",
+   name: "Rams",
+   region: "NFC West",
+  level: "NFC"
+ },
+ {
+   id: "49ers",
+   name: "49ers",
+   region: "NFC West",
+  level: "NFC"
+ },
+ {
+   id: "Seahawks",
+   name: "Seahawks",
+   region: "NFC West",
+  level: "NFC"
+ },
+ {
+   id: "Cardinals",
+   name: "Cardinals",
+   region: "NFC West",
+  level: "NFC"
+ }
