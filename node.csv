@@ -1,33 +1,33 @@
-ID,Team,Location,Latitude,Longitude,Region,Records
-1,Ravens,Baltimore,39.17540167,-76.66819833,AFC North,20
-2,Browns,Cleveland,41.5175,-81.68333333,AFC North,22
-3,Steelers,Pittsburgh,40.37645722,-79.60837583,AFC North,21
-4,Bengals,Cincinnati,39.25894444,-84.77430556,AFC North,13
-5,Colts,Indianapolis,39.76587639,-86.148875,AFC South,20
-6,Jaguars,Jacksonville,30.49405556,-81.68786111,AFC South,4
-7,Texans,Houston,29.52130556,-95.24216667,AFC South,8
-8,Titans,Tennessee,36.59287528,-86.47691028,AFC South,20
-9,Dolphine,Miami,25.79325,-80.29055556,AFC East,20
-10,Bills,Buffalo,42.94052472,-78.73216667,AFC East,27
-11,Patriots,New England,41.196,-96.11227778,AFC East,14
-12,Jets,New York,40.70121361,-74.00902833,AFC East,4
-13,Chiefs,Kansas City,39.29760528,-94.71390556,AFC West,28
-14,Raiders,Las Vegas,35.97636444,-115.1327708,AFC West,16
-15,Broncos,Denver,39.85840806,-104.6670019,AFC West,18
-16,Chargers,Los Angeles,33.94253611,-118.4080744,AFC West,14
-17,Bears,Chicago,41.979595,-87.90446417,NFC North,10
-18,Packers,Green Bay,44.48507333,-88.12959,NFC North,26
-19,Lions,Detroit,42.40919444,-83.00986111,NFC North,10
-20,Vikings,Minnesota,44.88054694,-93.2169225,NFC North,14
-21,Falcons,Atlanta,33.64044444,-84.42694444,NFC South,8
-22,Buccaneers,Tampa Bay,27.97547222,-82.53325,NFC South,20
-23,Panthers,Carolina,35.222595,-83.41904389,NFC South,10
-24,Saints,New Orleans,29.95194444,-90.08166667,NFC South,25
-25,Cowboys,Dallas,32.84711389,-96.85177222,NFC East,12
-26,Giants,New York,40.63975111,-73.77892556,NFC East,13
-27,Eagles,Philadelphia,39.87195278,-75.24114083,NFC East,8
-28,Football Team,Washington,38.86872333,-77.00747583,NFC East,14
-29,Rams,Los Angeles,34.25932528,-118.4134331,NFC West,19
-30,49ers,San Fransisco,37.61900194,-122.3748433,NFC West,14
-31,Seahawks,Seattle,47.44898194,-122.3093131,NFC West,24
-32,Cardinals,Arizona,33.43416667,-112.0080556,NFC West,18
+ID,Team,Location,Latitude,Longitude,Region,Records,group
+1,Ravens,Baltimore,39.17540167,-76.66819833,AFC North,20,1
+2,Browns,Cleveland,41.5175,-81.68333333,AFC North,22,1
+3,Steelers,Pittsburgh,40.37645722,-79.60837583,AFC North,21,1
+4,Bengals,Cincinnati,39.25894444,-84.77430556,AFC North,13,1
+5,Colts,Indianapolis,39.76587639,-86.148875,AFC South,20,2
+6,Jaguars,Jacksonville,30.49405556,-81.68786111,AFC South,4,2
+7,Texans,Houston,29.52130556,-95.24216667,AFC South,8,2
+8,Titans,Tennessee,36.59287528,-86.47691028,AFC South,20,2
+9,Dolphine,Miami,25.79325,-80.29055556,AFC East,20,3
+10,Bills,Buffalo,42.94052472,-78.73216667,AFC East,27,3
+11,Patriots,New England,41.196,-96.11227778,AFC East,14,3
+12,Jets,New York,40.70121361,-74.00902833,AFC East,4,3
+13,Chiefs,Kansas City,39.29760528,-94.71390556,AFC West,28,4
+14,Raiders,Las Vegas,35.97636444,-115.1327708,AFC West,16,4
+15,Broncos,Denver,39.85840806,-104.6670019,AFC West,18,4
+16,Chargers,Los Angeles,33.94253611,-118.4080744,AFC West,14,4
+17,Bears,Chicago,41.979595,-87.90446417,NFC North,0,5
+18,Packers,Green Bay,44.48507333,-88.12959,NFC North,26,5
+19,Lions,Detroit,42.40919444,-83.00986111,NFC North,10,5
+20,Vikings,Minnesota,44.88054694,-93.2169225,NFC North,14,5
+21,Falcons,Atlanta,33.64044444,-84.42694444,NFC South,8,6
+22,Buccaneers,Tampa Bay,27.97547222,-82.53325,NFC South,20,6
+23,Panthers,Carolina,35.222595,-83.41904389,NFC South,10,6
+24,Saints,New Orleans,29.95194444,-90.08166667,NFC South,25,6
+25,Cowboys,Dallas,32.84711389,-96.85177222,NFC East,12,7
+26,Giants,New York,40.63975111,-73.77892556,NFC East,13,7
+27,Eagles,Philadelphia,39.87195278,-75.24114083,NFC East,8,7
+28,Football Team,Washington,38.86872333,-77.00747583,NFC East,14,7
+29,Rams,Los Angeles,34.25932528,-118.4134331,NFC West,19,8
+30,49ers,San Fransisco,37.61900194,-122.3748433,NFC West,14,8
+31,Seahawks,Seattle,47.44898194,-122.3093131,NFC West,24,8
+32,Cardinals,Arizona,33.43416667,-112.0080556,NFC West,18,8
